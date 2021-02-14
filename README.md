@@ -1,5 +1,5 @@
 # Rust-Detection
-An algorithm that uses Python and OpenCV to detect rust on metallic surfaces.
+An algorithm that uses Python and OpenCV to detect rust on metallic surfaces for failure inspection purposes.
 
 The Test_Images and ImageTransform_OrthogonalView are files contatining test images to rust_det.py and img_trans.py respectively.
 
